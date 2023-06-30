@@ -1,2 +1,3 @@
 # Assignment-1-Portfolio-cgasal
-x6 attempt for the project deployment
+
+working portfolio and final, submitted assignment 1
